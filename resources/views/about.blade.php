@@ -13,7 +13,7 @@
         integrity='sha512-jnSuA4Ss2PkkikSOLtYs8BlYIeeIK1h99ty4YfvRPAlzr377vr3CXDb7sb7eEEBYjDtcYj+AjBH3FLv5uSJuXg=='
         crossorigin='anonymous' />
     {{-- Custom CSS --}}
-    {{-- <link rel="stylesheet" href="../css/app.css"> --}}
+    {{-- <link rel="stylesheet" href="./../../public/css/app.css"> --}}
 </head>
 <body>
     <header class="d-flex align-items-center justify-content-between p-3">
