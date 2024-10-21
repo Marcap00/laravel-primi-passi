@@ -18,10 +18,10 @@
 
 <body>
     <header>
-        <h1 class="text-center">Homepage</h1>
+        <h1 class="text-center">{{ $title }}</h1>
     </header>
     <main>
-        <h2 class="text-center">La mia prima Homepage con Laravel</h2>
+        <h2 class="text-center">{{ $description }}</h2>
     </main>
 </body>
 
